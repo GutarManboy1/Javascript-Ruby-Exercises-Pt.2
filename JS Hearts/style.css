@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #e5e5e5;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  position: relative;
+  height: 820px;
+  width: 1420px;
+  background-image: url("image/delta.jpg");
+  background-size: cover;
+  background-position: center;
+  border-radius: 12px;
+  box-shadow: 15px 15px 0;
+  cursor: pointer;
+}
+
+.heart {
+  color: red;
+  position: absolute;
+  font-size: 40px;
+  left: 50%;
+  top: 50%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+}
+
+/* this animation lets the heart come into view and then disappear because of the timeout */
+.heart.active {
+  animation: animate 0.8s linear forwards;
+}
+
+@keyframes animate {
+  30% {
+    opacity: 1;
+    font-size: 80px;
+  }
+
+  50% {
+    opacity: 1;
+    font-size: 60px;
+  }
+
+  70% {
+    opacity: 1;
+    font-size: 70px;
+  }
+
+  80% {
+    opacity: 1;
+    font-size: 60px;
+  }
+
+  90% {
+    opacity: 1;
+    font-size: 60px;
+  }
+}
