@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+/* remember this for the split screen */
+body {
+  background: linear-gradient(to right,
+      #fcf6bd 0%,
+      #fcf6bd 50%,
+      #a9def9 50%,
+      #a9def9 100%)fixed;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  height: 120px;
+  min-width: 380px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid black;
+  box-shadow: 10px 10px;
+}
+
+.container span {
+  width: 100%;
+  text-align: center;
+  font-size: 55px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.container span.num {
+  font-size: 50px;
+  border-right: 1px solid #797979;
+  border-left: 1px solid #797979;
+}
