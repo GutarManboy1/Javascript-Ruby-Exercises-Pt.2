@@ -14,5 +14,13 @@ Numbers
 ![Screenshot 2024-06-13 at 22 53 15](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/e0e4457f-2aad-43b2-ae68-73edfe6a5f36)
 
 ☺️ 
+
 ![Screenshot 2024-06-13 at 22 53 43](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/2bf4bc67-69f1-4b94-ab8e-28a41a8ff530)
 
+Temp Converter
+
+![Screenshot 2024-06-14 at 23 35 11](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/5c711baa-c4ea-4cff-9b33-6299f4580e66)
+
+Man, it's a hot one, like seven inches from the midday sun. 🎶 
+
+![Screenshot 2024-06-14 at 23 35 41](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/8ae1bfbf-e873-4acc-8b8d-783a6e88e42d)
