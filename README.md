@@ -1,3 +1,7 @@
+Drag and DDDRROOP!
+
+![Screenshot 2024-06-18 at 23 50 39](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/fc5c4265-b338-42ae-a34e-f01ecf03291c)
+
 Hamburgers (I'll gladly pay you Tuesday for a hamburger today)
 
 ![Screenshot 2024-06-12 at 23 19 57](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3e1564e1-f1b6-406d-95f1-3df22b409f4a)
