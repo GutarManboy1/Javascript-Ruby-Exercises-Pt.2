@@ -28,3 +28,12 @@ Temp Converter
 Man, it's a hot one, like seven inches from the midday sun. 🎶 
 
 ![Screenshot 2024-06-14 at 23 35 41](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/8ae1bfbf-e873-4acc-8b8d-783a6e88e42d)
+
+Time Based Greetings, foo!
+
+![Screenshot 2024-06-22 at 17 02 01](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/3c49868a-64cf-4b26-bb08-b40e64d5335f)
+
+![Screenshot 2024-06-22 at 17 02 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/e07b9015-4aee-4bb5-9821-6bb33b935ab7)
+
+![Screenshot 2024-06-22 at 17 02 42](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/f34b68b7-84d3-45d8-9162-270f6a9b6df5)
+
