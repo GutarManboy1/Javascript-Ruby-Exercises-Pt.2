@@ -1,3 +1,9 @@
+Drag and Drop 2
+GunCannon Edition
+
+![Screenshot 2024-06-24 at 23 57 22](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/b3d80931-a605-4dc3-b6ae-1d45443eeefb)
+
+
 Drag and DDDRROOP!
 
 ![Screenshot 2024-06-18 at 23 50 39](https://github.com/GutarManboy1/Javascript-Ruby-Exercises-Pt.2/assets/122960936/fc5c4265-b338-42ae-a34e-f01ecf03291c)
