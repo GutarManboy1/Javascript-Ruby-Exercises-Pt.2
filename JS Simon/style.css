@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background-color: #e9edc9;
+}
+
+.wrapper {
+    width: 550px;
+    height: 550px;
+    background: #ffffff;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    border-radius: 10px;
+    border: 1px solid #ccd5ae;
+}
+
+.simon {
+    position: absolute;
+    border-radius: 50%;
+    background: #101010;
+    width: 450px;
+    height: 450px;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+
+.color-part {
+    height: 190px;
+    width: 190px;
+    position: absolute;
+}
+
+.color1 {
+    background: #027802;
+    border-radius: 13em 0 0 0;
+    top: 1.87em;
+    left: 1.87em;
+}
+
+.color2 {
+    background: #950303;
+    border-radius: 0 13em 0 0;
+    right: 1.87em;
+    top: 1.87em;
+}
+
+.color3 {
+    background: #01018a;
+    border-radius: 0 0 13em 0;
+    right: 1.87em;
+    bottom: 1.87em;
+
+}
+
+.color4 {
+    background: #919102;
+    border-radius: 0 0 0 13em;
+    left: 1.87em;
+    bottom: 1.87em;
+}
+
+.simon:before {
+    position: absolute;
+    content: "";
+    background: #101010;
+    height: 12em;
+    width: 12em;
+    z-index: 1;
+    /*remember that the z index changes the position of something to put it above or behind something */
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+
+}
+
+#count {
+    position: absolute;
+    background: #ffffff;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 50%;
+    z-index: 1;
+    font-size: 40px;
+    width: 100px;
+    height: 100px;
+    display: grid;
+    place-items: center;
+}
