@@ -21,9 +21,9 @@ Hearts (double click to see some hearts)
 
 Guessing Game
 
-![Screenshot 2024-08-20 at 23 44 04](https://github.com/user-attachments/assets/7be2f40a-ee7e-44a5-9fcb-4c410c069808)
+![Screenshot 2024-08-20 at 23 55 41](https://github.com/user-attachments/assets/fe6eb756-9fa7-4b93-833b-d9beb6ed44de)
 
-![Screenshot 2024-08-20 at 23 43 46](https://github.com/user-attachments/assets/0fcba7a6-21cf-4208-93c5-8ce56710f049)
+![Screenshot 2024-08-20 at 23 56 24](https://github.com/user-attachments/assets/0884c44d-23dd-41ed-88cd-153564d0b4b2)
 
 
 Numbers
