@@ -19,6 +19,13 @@ Hearts (double click to see some hearts)
 
 ![Screenshot 2024-06-11 at 23 09 06](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/578c892b-4942-4c8b-8c18-5ae7e519f647)
 
+Guessing Game
+
+![Screenshot 2024-08-20 at 23 44 04](https://github.com/user-attachments/assets/7be2f40a-ee7e-44a5-9fcb-4c410c069808)
+
+![Screenshot 2024-08-20 at 23 43 46](https://github.com/user-attachments/assets/0fcba7a6-21cf-4208-93c5-8ce56710f049)
+
+
 Numbers
 
 ![Screenshot 2024-06-13 at 22 53 15](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/e0e4457f-2aad-43b2-ae68-73edfe6a5f36)
